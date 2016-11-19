@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322159214682",
+    "firebase_url": "https://myfirebaseapp-51bb9.firebaseio.com",
+    "project_id": "myfirebaseapp-51bb9",
+    "storage_bucket": "myfirebaseapp-51bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322159214682:android:61aec582473302b8",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.firebaseappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322159214682-pimp6jktd0t41abvdl6vee43cadlf8dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishabh.firebaseappdemo",
+            "certificate_hash": "D758A27FB50058201C1AC661B931D03AFFFB0696"
+          }
+        },
+        {
+          "client_id": "322159214682-geodaudiisi40du199k9nt27r4vmj3iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBUx2llT7qKVkv_-qO8D5R2og8REaOxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322159214682-geodaudiisi40du199k9nt27r4vmj3iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

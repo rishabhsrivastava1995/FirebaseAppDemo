@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseAppDemo</string>
+    <string name="facebook_application_id" translatable="false">1087056578072500</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1087056578072500</string>
+
+    <string name="twitter_consumer_key" translatable="false">2IcVfeW8xC7i5eZ9W81qQ3SYS</string>
+    <string name="twitter_consumer_secret" translatable="false">HN8Ds2Ioqc576SoTw5Fwq3Q3doicvrMDvN3F6nYSCVjO9daeOk</string>
+</resources>
